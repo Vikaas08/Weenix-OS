@@ -1,9 +1,9 @@
 # Weenix Operating System Kernel
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![Platform](https://img.shields.io/badge/Platform-QEMU-orange)
 ![Category](https://img.shields.io/badge/Category-Kernel%20Development-red)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A comprehensive, Unix-like operating system kernel built from the ground up as part of the **CSCI 402: Operating Systems** course at the **University of Southern California**.
 
